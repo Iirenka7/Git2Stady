@@ -1,1 +1,1 @@
-# Git2Stady
+# Git2Study
